@@ -1,2 +1,104 @@
-Hello interns
- hiii
+1  Llama — Developed by Meta AI.
+
+2  Gemini — Developed by Google.
+
+3  Claude — Developed by Anthropic.
+
+4  Grok — Developed by xAI.
+
+5  Mistral models — Developed by Mistral AI.
+
+6  GPT model family — Associated with OpenAI.
+
+7  Sora — Mainly used for AI video generation from text and other inputs.
+
+8  Veo — An AI video-generation model developed by Google DeepMind.
+
+9  Midjourney — Mainly used for AI image generation and creative visual design.
+
+10  GitHub Copilot — Mainly used for AI-assisted coding, code generation, completion, and programming help.
+
+11  LLM — Large Language Model.
+
+12  Generative AI — AI that can create new content such as text, images, audio, video, or code.
+
+13  Prompt — A question, instruction, or input given to an AI model to get a response.
+
+14 System Prompt — Instructions that define the AI's behavior, role, rules, and response style.
+
+15  Multimodal AI — AI that can understand and work with multiple types of data, such as text, images, audio, and video.
+
+16  AI Hallucination — When an AI generates incorrect, false, or made-up information while presenting it as if it were true.
+
+17  Tokens — Small units of text that an LLM processes, such as words, parts of words, or characters.
+
+18  Context Window — The maximum amount of input and conversation information (tokens) an AI model can consider at one time.
+
+19  Inference — The process of an AI model using its trained knowledge to generate an output or prediction from new input.
+
+20  Fine-tuning — Training an already-trained AI model further on a specific dataset or task to improve its performance for that purpose.
+
+
+21  AI Agent — An AI system that can understand a goal, plan steps, use tools, and take actions to complete a task.
+
+22  Chatbot vs AI Agent — A chatbot mainly responds to conversations, while an AI agent can plan, use tools, make decisions, and perform actions to achieve a goal.
+
+23 Tool Calling / Function Calling — A feature that allows an AI model to request and use external tools or functions, such as APIs, databases, calculators, or search tools.
+
+24 MCP — Model Context Protocol. It is a standard that helps AI applications connect with external tools, data, and services.
+
+25  API Key — A unique credential used to authenticate and authorize access to an AI service or API.
+
+26  API Rate Limit — A restriction on how many API requests a user or application can make within a specific period.
+
+27  Cursor — An AI-powered code editor/IDE designed to help developers write, understand, edit, and debug code.
+
+28  NotebookLM — Mainly designed to help users work with and understand their own documents and sources using AI.
+
+29  Semantic Search — Search that finds information based on the meaning and intent of a query, rather than only matching exact keywords.
+
+30  Three productive uses of Generative AI for developers:
+
+- Code generation and completion
+- Debugging and explaining code
+- Writing documentation and test cases
+
+31  Speech-to-Text AI — AI that converts spoken language/audio into written text.
+
+32  Text-to-Speech AI — AI that converts written text into spoken audio/voice.
+
+33  OCR (Optical Character Recognition) — Allows a computer to extract and recognize text from images or scanned documents.
+
+34  Vision Model — An AI model that can understand and analyze visual information, such as images and videos.
+
+35  Text-to-Video AI — AI that generates videos from text prompts or descriptions.
+
+36  Diffusion Model — A type of AI model commonly used to generate images, videos, and other content from noise.
+
+37  GPUs are widely used for AI because they can perform many mathematical calculations in parallel, making them efficient for training and running AI models.
+
+38  NPU (Neural Processing Unit) — A specialized processor designed to efficiently run AI and machine-learning tasks.
+
+39  VRAM (Video RAM) — Mainly stores AI model weights, intermediate data, and other data needed by the GPU while running large AI models.
+
+40  Running an AI model locally — Means running the AI model directly on your own computer/device instead of sending the data to a remote cloud server.
+
+41  Open-weight AI model — A model whose trained weights are made available for others to download, run, or modify, subject to its license.
+
+42  Model Distillation — A technique where a smaller “student” model learns from a larger “teacher” model to achieve similar performance with lower resource requirements.
+
+43  LoRA (Low-Rank Adaptation) — Commonly used to fine-tune large AI models efficiently by training a small number of additional parameters instead of the entire model.
+
+44  MoE — Mixture of Experts. It is an architecture where different expert networks handle different parts of a task, allowing efficient model scaling.
+
+45  AI Benchmark — A standardized test or dataset used to measure and compare AI model performance.
+
+46  Guardrail — A rule, filter, or safety mechanism that helps an AI application behave within defined boundaries and prevents unwanted outputs or actions.
+
+47  Prompt Injection — An attack where specially crafted instructions are used to manipulate an AI system into ignoring its intended instructions or performing unintended actions.
+
+48  PII — Personally Identifiable Information, such as a person's name, phone number, email address, or identification number.
+
+49  Confidential company data should not automatically be pasted into public AI tools because it may create privacy, security, confidentiality, or data-leakage risks, depending on the service and its settings.
+
+50 If an AI-generated answer looks convincing, verify it using reliable sources, check important facts, and use human/expert judgment before using it for an important decision.
